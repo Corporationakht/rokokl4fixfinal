@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Catatan Penjualan",
+    "slug": "catatan-penjualan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1F4E79"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.catatanpenjualan"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1F4E79"
+      },
+      "package": "com.yourname.catatanpenjualan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
